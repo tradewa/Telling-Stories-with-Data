@@ -1,6 +1,8 @@
 ---
 title: "github-r-test"
-output: html_document
+output: 
+  html_document: 
+    keep_md: true
 date: "2024-07-02"
 ---
 
